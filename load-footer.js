@@ -1,5 +1,6 @@
 // load-footer.js
 document.addEventListener("DOMContentLoaded", function() {
+  
   const footerHTML = `
     <footer>
       © 2026 NYCU Theory Day — 
